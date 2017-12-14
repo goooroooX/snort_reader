@@ -1,0 +1,2 @@
+08/10-23:45:52.644421  [**] [1:30918:1] BLACKLIST User-Agent known malicious user agent - User-Agent User-Agent Mozilla [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.14.141.30:53369 -> 136.166.4.110:80 
+08/16-06:51:57.322596  [**] [3:11672:8] BROWSER-OTHER Mozilla Network Security Services SSLv2 stack overflow attempt [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 10.14.141.30:52982 -> 31.13.81.52:443

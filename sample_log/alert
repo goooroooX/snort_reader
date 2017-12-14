@@ -1,0 +1,34 @@
+08/16-03:17:34.508465  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:18:40.335363  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:20:22.243378  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 178.79.213.102 -> 10.14.141.30
+08/16-03:22:25.036628  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 178.79.213.107 -> 10.14.141.30
+08/16-03:22:43.735906  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 178.79.213.107 -> 10.14.141.30
+08/16-03:22:45.246294  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 178.79.213.107 -> 10.14.141.30
+08/16-03:23:08.940881  [**] [129:5:1] Bad segment, adjusted size <= 0 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:50067 -> 68.232.34.19:80
+08/16-03:25:24.168136  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:26:02.787018  [**] [129:5:1] Bad segment, adjusted size <= 0 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:49992 -> 8.248.3.253:80
+08/16-03:26:02.798956  [**] [129:5:1] Bad segment, adjusted size <= 0 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:49991 -> 8.248.3.253:80
+08/16-03:26:02.803277  [**] [129:5:1] Bad segment, adjusted size <= 0 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:49993 -> 8.248.3.253:80
+08/16-03:26:02.811006  [**] [129:5:1] Bad segment, adjusted size <= 0 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:49994 -> 8.248.3.253:80
+08/16-03:26:33.598485  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:26:35.558092  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:26:38.397318  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:27:17.910764  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 8.248.3.253 -> 10.14.141.30
+08/16-03:27:47.166796  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:27:53.104593  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:28:03.436658  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:28:06.322621  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 8.251.59.251 -> 10.14.141.30
+08/16-03:28:10.495233  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 8.251.59.251 -> 10.14.141.30
+08/16-03:28:14.529617  [**] [129:5:1] Bad segment, adjusted size <= 0 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:50103 -> 68.232.34.19:80
+08/16-03:28:47.594541  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 8.251.59.251 -> 10.14.141.30
+08/16-03:29:45.113958  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 8.253.98.114 -> 10.14.141.30
+08/16-03:29:58.100010  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-03:41:51.339326  [**] [137:1:2] (spp_ssl) Invalid Client HELLO after Server HELLO Detected [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:46917 -> 173.194.221.188:443
+08/16-03:28:51.352451  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 205.185.208.170 -> 10.14.141.30
+08/16-08:57:07.779279  [**] [137:1:2] (spp_ssl) Invalid Client HELLO after Server HELLO Detected [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.14.141.30:57274 -> 185.129.96.69:443
+08/16-14:11:57.048649  [**] [120:8:2] (http_inspect) INVALID CONTENT-LENGTH OR CHUNK SIZE [**] [Classification: Unknown Traffic] [Priority: 3] {TCP} 10.14.141.30:51876 -> 216.34.181.97:80
+08/16-14:16:55.414617  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 69.165.169.197 -> 10.14.141.30
+08/16-14:18:01.640740  [**] [129:14:1] TCP Timestamp is missing [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 31.23.243.173:45778 -> 10.14.141.30:40874
+08/16-14:26:50.134766  [**] [129:13:1] 4-way handshake detected [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 24.43.69.30:49001 -> 10.14.141.30:44406
+08/16-14:32:56.378122  [**] [129:14:1] TCP Timestamp is missing [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 94.136.204.34:37341 -> 10.14.141.30:39631
+08/16-14:35:20.709858  [**] [139:1:1] (spp_sdf) SDF Combination Alert [**] [Classification: Senstive Data] [Priority: 2] {PROTO:254} 91.228.177.93 -> 10.14.141.30
