@@ -1,6 +1,6 @@
 # Snort Alert Log Reader
 
-The Python script to monitor (tail) the Snort alert log file and send notifications.
+The Python script to monitor (tail) the Snort alert log file and send notifications for top-priority alerts (priority 2 and 1 by default).
 Support two ways of notification:
 * via email
 * via the custom script
